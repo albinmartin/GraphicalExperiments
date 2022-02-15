@@ -33,6 +33,8 @@
 
 # Folders
 .vs/
+bin/
+bin-int/
 
 # User-specific files
 *.rsuser
